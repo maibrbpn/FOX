@@ -37,7 +37,7 @@ public class FoxTextUtil {
 
     public static Logger       logger       = LogManager.getLogger(FoxTextUtil.class);
     /**
-     * Defines token.
+     * Defines token.e
      */
     public static final String tokenSpliter = "[\\p{Punct}&&[^-\\_/&+.]]| |\\t|\\n";
 
@@ -142,7 +142,7 @@ public class FoxTextUtil {
 
         InputStream modelIn = null;
         try {
-            modelIn = new FileInputStream("data/openNLP/en-sent.bin");
+            modelIn = new FileInputStream("data/openNLP/nl-sent.bin");
         } catch (FileNotFoundException e) {
             logger.error("\n", e);
         }

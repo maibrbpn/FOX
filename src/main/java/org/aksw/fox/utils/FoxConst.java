@@ -32,5 +32,9 @@ public class FoxConst {
                                                                     "The philosopher and mathematician Gottfried Wilhelm Leibniz was born in Leipzig in 1646, and attended the university from 1661 to 1666. "
                                                                             + "Nobel Prize laureate Werner Heisenberg worked here as a physics professor (from 1927 to 1942), "
                                                                             + "as did Nobel Prize laureates Gustav Ludwig Hertz (physics), Wilhelm Ostwald (chemistry) and Theodor Mommsen (Nobel Prize in literature). ";
+    
+    public static String       NER_NL_EXAMPLE_1             = "Momenteel wordt in de binnenstad van Leipzig een nieuwe campus voor de universiteit gebouwd, naar ontwerp van de Nederlandse architect Erick van Egeraat.";
+  
+    public static String       NER_NL_EXAMPLE_2     ="Het Wilhelmus is het Nederlandse volkslied. Het is inhoudelijk geschreven als een lied dat Willem van Oranje gezongen zou kunnen hebben, alhoewel er geen enkel bewijs is dat hij het daadwerkelijk gezongen heeft. Het Wilhelmus weerspiegelt Willem van Oranjes tweestrijd inzake de opstand in de Nederlanden. Enerzijds probeert hij trouw te zijn aan de Spaanse koning, anderzijds is hij boven alles trouw aan zijn geweten, dat hem voorschrijft God en het Nederlandse volk te dienen.";
 
 }
